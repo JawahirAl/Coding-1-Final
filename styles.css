@@ -1,1 +1,43 @@
-kj
+.back-clr{
+    background-color: pink;
+}
+.nav-clr{
+    background-color: rgb(219, 116, 133);
+}
+#nvb-tggl-icon-color{
+    color: rgb(179, 67, 86);
+ }
+.nav-text-clr{
+   color:  white;
+   font: bold;
+    font-family: Artifika; 
+    font-size: 24px; 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 700; 
+    line-height: 26.4px; 
+}
+.nav-text-clr:hover{
+color: rgb(179, 67, 86);
+ }
+ .about-img{
+     height: 400px;
+     width: 400px;
+     float: right;
+ }
+ .gnrl-font{
+    color: rgb(179, 67, 86);
+    font: bold;
+    font-family: Artifika; 
+    font-size: 24px; 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 700; 
+    line-height: 26.4px; 
+ }
+ .logo{
+     height: 50px;
+     width: 50px;
+     float:right
+ }
+ 
