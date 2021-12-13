@@ -54,6 +54,8 @@ color: rgb(179, 67, 86);
     width: 300px; 
     float: right;
   }
+ 
+
   p{
       color: rgb(0, 0, 0);
       font: bold;
@@ -73,7 +75,7 @@ color: rgb(179, 67, 86);
     font-family: Artifika;    
   }
   .carousel-item{
-      height: 900px;
+      height: 800px;
       width: 1950px;
   }
   
